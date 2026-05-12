@@ -1,9 +1,11 @@
 # AO1
 
-Title + 1-sentence purpose
+Title: Illustrate the understanding of Git flow while showing how to create a simple box plot from scikit-learn using fetch_california_housing dataset
 
-Date - California Housing dataset
+Data: California Housing dataset
 
-How to run the script (you’ll fill this in more later)
+How to run the script: Once your VS code, is set up correctly meaning that your virtual environment is set up with Python.
+1. Ensure that your working directory ends at "/AO1".
+2. Now you can run "boxplot.py" with the following terminal command "python src/boxplot.py".
 
-Expected output a saved boxplot image
+Expected output: a saved boxplot image
